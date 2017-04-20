@@ -2,4 +2,4 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-#org-apache-io-protocol/.idea/*
+org-apache-io-protocol/.idea/*
